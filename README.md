@@ -11,5 +11,5 @@ I'm a data engineering enthusiast and cloud computing aspirant passionate about 
 
 📫 Reach me at: [amroshkh@gmail.com] 
 
-🎨 Hobbies: Reading books, writing poems  
+🎨 Hobbies: Reading books, writing poems,video games  
 🌟 "Innovation is the key to unlocking potential, and data is the fuel that drives it."
