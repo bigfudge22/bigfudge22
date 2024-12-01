@@ -1,6 +1,6 @@
 ## Hi, I'm Amro! 👋  
 
-I'm a DataEngineering enthusiast and CloudComputing  
+I'm a DataEngineering enthusiast  
 
 🌱 Currently learning:DataEngineering and CloudComputing  
 🔭 Working on:Projects that integrate cloud solutions with data pipelines  
